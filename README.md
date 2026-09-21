@@ -28,6 +28,4 @@ Le projet exploite les données ouvertes d'Île-de-France Mobilités (Portail PR
 ```bash
 
 pip install requests psycopg2-binary python-dotenv
-
-
 python main.py
