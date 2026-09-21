@@ -26,8 +26,8 @@ Le projet exploite les données ouvertes d'Île-de-France Mobilités (Portail PR
 ## Lancer le projet
 
 ```bash
-# Installer les bibliothèques nécessaires
+
 pip install requests psycopg2-binary python-dotenv
 
-# Lancer le script de collecte
+
 python main.py
